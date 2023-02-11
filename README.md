@@ -11,7 +11,6 @@ Then simplly upload, and all done.
 
 License
 ====
-(C) 2021 Kumohakase - Creative commons CC BY 4.0
-https://creativecommons.org/licenses/by/4.0/
+(C) 2021 Kumohakase
 
 Please consider supporting me on ko-fi.com https://ko-fi.com/kumohakase
